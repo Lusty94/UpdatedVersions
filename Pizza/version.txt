@@ -1,2 +1,5 @@
-1.0.0
-Initial Release
+1.1.0
+
+Added Version Check For Server Console.
+
+Update From Your KeyMaster.
