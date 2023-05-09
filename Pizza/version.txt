@@ -1,2 +1,16 @@
+1.1.0
+Fixes For:
+
+Ham & Pineapple Pizza Giving Pepperoni Pizza When Cooked
+Greek Style Pizza Not Being Given When Cooked
+Vegetable Pizza Not Being Given When Cooked
+
+Topping Storage Stash Not Saving Items Correctly
+
+
+Download From keymaster.fivem.net
+
+
+
 1.0.0
 Initial Release
