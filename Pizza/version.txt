@@ -9,8 +9,3 @@ Topping Storage Stash Not Saving Items Correctly
 
 
 Download From keymaster.fivem.net
-
-
-
-1.0.0
-Initial Release
