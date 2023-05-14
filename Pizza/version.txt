@@ -1,2 +1,6 @@
-1.1.0
+1.2.0
+
+Improved boxzone removal when restarting and stopping resource.
+
+Update from keymaster.fivem.net
 
