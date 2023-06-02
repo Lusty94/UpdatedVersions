@@ -1,3 +1,1 @@
 1.1.0
-
-Improved boxzone removal when restarting and stopping resource.
